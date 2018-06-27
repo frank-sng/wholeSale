@@ -1,0 +1,23 @@
+# Directory-based project format:
+.vscode/
+.vscode/workspace.xml
+**/.vscode/workspace.xml
+
+# mac hidden files
+.DS_Store
+
+# other
+node_modules/
+bower_components/
+.tmp
+.sass-cache
+builds/**/images/*
+*.ogg
+*.mp3
+*.mp4
+*.png
+*.jpeg
+
+# security / ssl
+*.pem
+*.xxjson
